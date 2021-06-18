@@ -21,12 +21,11 @@ h1{
 label, button {
     width: 150px; 
     display: inline-table;
-    margin 5px 5px;
+    margin: 5px;
 }
 
 input, select {
-    width: 200px;
-    margin 5px 5px;
+    width: 200px;    
 }
 
 footer {
